@@ -1,4 +1,4 @@
-# ⭐ TC1031 — Final Project
+# TC1031 — Final Project
 
 ## 1. Búsqueda de rutas (Dijkstra con animación)
 
